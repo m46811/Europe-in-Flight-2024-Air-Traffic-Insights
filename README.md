@@ -3,6 +3,7 @@ Python workbooks for data exploration and analysis of EUROCONTROL Aviation Intel
 Includes preprocessing, visualization, and trend analysis to assess European air traffic performance.
 
 Tableau Storyboard: https://public.tableau.com/app/profile/milena.nedyalkova/viz/EuropeinFlight2024AirTrafficInsights/EuropeinFlight2024AirTrafficInsight?publish=yes
+
 Dataset Source: https://ansperformance.eu/csv/#aptflt-csv
 
 The airport_traffic_2024.csv file contains detailed air traffic data for European airports in
@@ -16,7 +17,7 @@ European air traffic management performance through research, data analysis, and
 stakeholder consultation, ensuring a transparent and effective review of the European ATM
 system, which makes it a reliable data source. 
 
-##The repo contains the following workbooks:
+The repo contains the following workbooks:
 
 Sourcing Open Data
 Exploring Relationships
