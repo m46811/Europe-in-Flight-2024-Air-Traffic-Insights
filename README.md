@@ -27,3 +27,7 @@ Supervised Machine Learning: Regression
 Unsupervised Machine Learning: Clustering
 Sourcing and Analysing Time Series Data 
 
+# Hypotheses:
+## 1.Traffic distribution will vary significantly by country, with larger or more tourist-focused countries (e.g., Italy, Spain, France) experiencing higher total flights compared to smaller countries.
+## 2.There is a consistent growth in total flight traffic from early spring to summer each year, followed by a gradual decline into autumn and winter, reflecting seasonal travel demand.
+## 3.Major hub airports (e.g. London Heathrow, Paris CDG, Frankfurt, Amsterdam Schiphol) will have the highest total flight traffic in 2024, while smaller regional airports will have the lowest.
